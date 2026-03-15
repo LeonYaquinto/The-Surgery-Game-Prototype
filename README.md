@@ -23,7 +23,7 @@ The project was developed to explore gameplay mechanics, level flow, UI design, 
 
 ## Screenshots
 
-### Menú Principal
+### Main Menu
 ![Main Menu](screenshots/MainMenu.jpeg)
 
 ### Gameplay
@@ -31,7 +31,7 @@ The project was developed to explore gameplay mechanics, level flow, UI design, 
 ![Screen 2](screenshots/Screen2.jpeg)
 ![Screen 3](screenshots/Screen3.jpeg)
 
-### Enemigos
+### Enemies
 ![Monster](screenshots/Monster.jpeg)
 ![Zombie](screenshots/Zombie.jpeg)
 
