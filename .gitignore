@@ -1,0 +1,74 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Uu]serSettings/
+
+# Asset meta data
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Unity3D crash reports
+sysinfo.txt
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.x86_64
+*.x86
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Assets de la Asset Store (pesados, se reimportan)
+Assets/Asylum models/
+Assets/BathroomPack/
+Assets/Blood decal pack/
+Assets/BrokenVector/
+Assets/Day-Night Skyboxes/
+Assets/DecalPack01/
+Assets/Dnk_Dev/
+Assets/eretichable Technologies/
+Assets/Fantasy Wooden GUI  Free/
+Assets/FencesPack/
+Assets/Linterna/
+Assets/Low Poly Guns/
+Assets/Mini First Person Controller/
+Assets/PBR_Grass_Textures/
+Assets/RPG_inventory_icons/
+Assets/TextMesh Pro/
+Assets/Tree10/
+Assets/YughuesFreeBushes2018/
+Assets/Zombie/

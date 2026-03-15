@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3337339492251948831
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 933917460395148167, guid: b125edf2c2a651a498e4ca8423fb9946, type: 3}
+      propertyPath: m_Name
+      value: Door_V1 (4) Variant (2) Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 933917460395253671, guid: b125edf2c2a651a498e4ca8423fb9946, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 933917460395253671, guid: b125edf2c2a651a498e4ca8423fb9946, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.1760683
+      objectReference: {fileID: 0}
+    - target: {fileID: 933917460395253671, guid: b125edf2c2a651a498e4ca8423fb9946, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.67
+      objectReference: {fileID: 0}
+    - target: {fileID: 933917460395253671, guid: b125edf2c2a651a498e4ca8423fb9946, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.6061493
+      objectReference: {fileID: 0}
+    - target: {fileID: 933917460395253671, guid: b125edf2c2a651a498e4ca8423fb9946, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 10.865
+      objectReference: {fileID: 0}
+    - target: {fileID: 933917460395253671, guid: b125edf2c2a651a498e4ca8423fb9946, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710695
+      objectReference: {fileID: 0}
+    - target: {fileID: 933917460395253671, guid: b125edf2c2a651a498e4ca8423fb9946, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 933917460395253671, guid: b125edf2c2a651a498e4ca8423fb9946, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071067
+      objectReference: {fileID: 0}
+    - target: {fileID: 933917460395253671, guid: b125edf2c2a651a498e4ca8423fb9946, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 933917460395253671, guid: b125edf2c2a651a498e4ca8423fb9946, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 933917460395253671, guid: b125edf2c2a651a498e4ca8423fb9946, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 933917460395253671, guid: b125edf2c2a651a498e4ca8423fb9946, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3314196559784958666, guid: b125edf2c2a651a498e4ca8423fb9946, type: 3}
+      propertyPath: consumeKey
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3314196559784958666, guid: b125edf2c2a651a498e4ca8423fb9946, type: 3}
+      propertyPath: requiresKey
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3314196559784958666, guid: b125edf2c2a651a498e4ca8423fb9946, type: 3}
+      propertyPath: sonidoAbrir
+      value: 
+      objectReference: {fileID: 8300000, guid: 068c0c3e7b2775b4dbfb815f1709b6d2, type: 3}
+    - target: {fileID: 3314196559784958666, guid: b125edf2c2a651a498e4ca8423fb9946, type: 3}
+      propertyPath: sonidoCerrar
+      value: 
+      objectReference: {fileID: 8300000, guid: 27de66c7196ab64459eab2dd97bf70e5, type: 3}
+    - target: {fileID: 3314196559784958666, guid: b125edf2c2a651a498e4ca8423fb9946, type: 3}
+      propertyPath: sonidoBloqueo
+      value: 
+      objectReference: {fileID: 8300000, guid: cd3b35e652201f841b9af115a9a2fa24, type: 3}
+    - target: {fileID: 3314196559784958666, guid: b125edf2c2a651a498e4ca8423fb9946, type: 3}
+      propertyPath: sonidoSinLlave
+      value: 
+      objectReference: {fileID: 8300000, guid: cd3b35e652201f841b9af115a9a2fa24, type: 3}
+    - target: {fileID: 3314196559784958666, guid: b125edf2c2a651a498e4ca8423fb9946, type: 3}
+      propertyPath: mensajeSinLlave
+      value: Necesitas la llave verde
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b125edf2c2a651a498e4ca8423fb9946, type: 3}
