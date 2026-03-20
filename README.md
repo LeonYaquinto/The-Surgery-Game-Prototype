@@ -7,6 +7,11 @@ Playable game prototype developed in Unity.
 This project is a small game prototype where the player navigates through an environment while interacting with different elements of the scene.
 The project was developed to explore gameplay mechanics, level flow, UI design, and basic game systems using Unity and C#.
 
+Gameplay Video
+
+You can watch the project here:
+https://www.youtube.com/watch?v=8ZfCVzlkyR8
+
 ## Features
 
 * Gameplay mechanics implemented with C#
